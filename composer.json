@@ -30,7 +30,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "filament/support": "^3.2",
+        "filament/support": "^3.6",
         "awcodes/filament-tiptap-editor": "3.x-dev"
     },
     "extra": {
